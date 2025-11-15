@@ -1,2 +1,3 @@
 # bookbot
-The starter repo for the  course Build a Bookbot in Python on Boot.dev
+
+BookBot is my first [Boot.dev](https://www.boot.dev) project!
